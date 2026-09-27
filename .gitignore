@@ -1,3 +1,15 @@
 .terraform/
 *.tfstate
 *.tfstate.*
+
+# Sensitive/private keys
+*.pem
+proj_key
+proj_key.pub
+
+# macOS metadata
+.DS_Store
+__MACOSX/
+
+# Terraform variables
+*.tfvars
