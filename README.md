@@ -616,6 +616,28 @@ tail -f log/cowrie.log
 | S3 Storage | <$1 |
 | **Total** | **~$80** |
 
+
 ---
 
-**Version**: 1.0.0 | **Updated**: June 2024 | **Author**: Cloud Security Engineer
+## 👨‍💻 Author
+
+**Chaitanya Bhosale & Team **
+
+🔗 GitHub: https://github.com/Chaitanya5068
+
+🔗 LinkedIn: https://www.linkedin.com/in/chaitanya-bhosale
+
+
+---
+
+## ⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub!
+
+---
+
+## 📌 Note
+
+This project is created for **educational purposes** and demonstrates real-world Terraform practices.
+
+
